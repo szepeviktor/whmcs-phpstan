@@ -1,0 +1,7 @@
+{
+    "require-dev": {
+        "phpstan/phpstan": "^2.1",
+        "illuminate/database": "^8.83",
+        "knplabs/knp-menu": "^3.7"
+    }
+}

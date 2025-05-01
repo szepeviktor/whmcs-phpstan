@@ -1,0 +1,6 @@
+parameters:
+    scanDirectories:
+        - stubs/
+    paths:
+        - modules/
+    level: 2
